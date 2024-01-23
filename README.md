@@ -49,10 +49,8 @@ Inicio de sesión:
 Registro:
 <image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Registro.png" alt="Registro">
 Pantalla principal:
-<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Inicio-Sesion.png" alt="Inicio de sesión">
-Pantalla principal (más abajo):
 <image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/pagina-principal.png" alt="Pantalla principal">
-Inicio de sesión:
+Pantalla principal (más abajo):
 <image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/pagina-principal-peliculas.png" alt="Pantalla principal más abajo">
 Opción de comentar dentro de las películas:
 <image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/comentario-pelicula.png" alt="Comentario peliculas">

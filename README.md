@@ -38,6 +38,28 @@ Además, para dar estilo a las diferentes páginas, se optó por **Tailwind CSS*
 3. Una vez realizado lo anterior, ejecutar ```npm start``` que hará el despliegue de la aplicación en *localhost*.
 
 ## Imágenes
+### Backend
+Documentación de la API:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Documentacion-API.png" alt="Documentación de la API">
+Ejemplo de un método HTTP de la API documentado:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Documentacion-API-metodos.png" alt="Ejemplo método HTTP documentado API">
+### Frontend
+Inicio de sesión:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Inicio-Sesion.png" alt="Inicio de sesión">
+Registro:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Registro.png" alt="Registro">
+Pantalla principal:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/Inicio-Sesion.png" alt="Inicio de sesión">
+Pantalla principal (más abajo):
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/pagina-principal.png" alt="Pantalla principal">
+Inicio de sesión:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/pagina-principal-peliculas.png" alt="Pantalla principal más abajo">
+Opción de comentar dentro de las películas:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/comentario-pelicula.png" alt="Comentario peliculas">
+Perfil del usuario:
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/usuario.png" alt="Usuario">
+
+
 
 ## Hecho con
 

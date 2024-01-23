@@ -53,7 +53,7 @@ Pantalla principal:
 Pantalla principal (más abajo):
 <image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/pagina-principal-peliculas.png" alt="Pantalla principal más abajo">
 Opción de comentar dentro de las películas:
-<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/comentario-pelicula.png" alt="Comentario peliculas">
+<image src="https://raw.githubusercontent.com/Toimil/SocialFilm/main/readme-img/comentario-pelicula.png" alt="Comentario peliculas">
 Perfil del usuario:
 <image src="https://raw.githubusercontent.com/Toimil/SocialFilm/master/readme-img/usuario.png" alt="Usuario">
 

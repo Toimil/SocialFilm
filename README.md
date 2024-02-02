@@ -66,8 +66,6 @@ Perfil del usuario:
 * [Tailwind CSS](https://tailwindcss.com/)
 * [MongoDB](https://www.mongodb.com/es)
 
-## Autor
 
-* **Óscar Toimil** - [Toimil](https://github.com/Toimil)
 
 
